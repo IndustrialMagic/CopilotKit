@@ -1,5 +1,20 @@
 # web
 
+## 1.23.0
+
+### Minor Changes
+
+- f771353: Fix: Stale CopilotReadable
+
+### Patch Changes
+
+- Updated dependencies [f771353]
+  - @copilotkit/react-core@0.37.0
+  - @copilotkit/backend@0.37.0
+  - @copilotkit/react-textarea@0.37.0
+  - @copilotkit/react-ui@0.37.0
+  - @copilotkit/shared@0.37.0
+
 ## 1.23.0-mme-fix-feedback-readable.0
 
 ### Minor Changes

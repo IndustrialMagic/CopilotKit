@@ -1,5 +1,11 @@
 # eslint-config-custom
 
+## 0.12.0
+
+### Minor Changes
+
+- f771353: Fix: Stale CopilotReadable
+
 ## 0.12.0-mme-fix-feedback-readable.0
 
 ### Minor Changes
